@@ -1,0 +1,49 @@
+body {
+	margin: 0 auto;
+	max-width: 85%; 
+}
+#header {
+	background: black;
+	padding: 10px;
+	color: white;
+}
+#header h1 {
+	margin-right: 10pc;
+	text-align: right;
+	margin-left: 10pc;
+	font-family: BlackChancery;
+	font-size: 40px;
+}
+nav {
+	padding: 53px;
+	float:left;
+}
+nav>a {
+	color: white; 
+	text-decoration: none;
+	padding: 20px;
+}
+nav a:hover {
+	font-weight: bold; 
+}
+#sidebar {
+	border: 1px solid;
+	width: 300px;
+	height: 400px;
+}
+#sidebar h2 {
+	background: black; 
+	margin: 0 auto;
+	padding: 10px;
+	text-align: center;
+	color: white;
+}
+footer {
+	 background: black;
+	 padding: 20px;
+	 color: white;
+}	
+#main {
+	margin-right: 15pc;
+	float: right;
+}
